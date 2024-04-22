@@ -1,3 +1,4 @@
-# It's a script that you can run using python script.py filename delimiter 
-# It convert a csv file for you and able to handle unicode character also 
-# Give it a try and let me know how's it . I sense it that you gonna love it. Happy Coding ! :) 
+# script.py use to convert the text file to csv file contains your records 
+
+# fscript.py use for the convert your text file to csv of what unmatched as well as the difference in your file that auto generated 
+just follow the format py fscript.py --file file1.txt --file file2.txt 'delim'
