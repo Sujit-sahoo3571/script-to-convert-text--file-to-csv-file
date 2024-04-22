@@ -1,0 +1,6 @@
+E02832	Penelope Jordan	Computer Systems Manager	IT	Manufacturing	Female	Caucasian	26	27-09-2019	$84,913 	7% 	United States	Chicago	
+E01639	Austin Vo	Sr. Analyst	Finance	Manufacturing	Male	Asian	55	20-11-1995	$95,409 	0% 	United States	Phoenix	
+E00644	Joshua Gupta	Account Representative	Sales	Corporate	Male	Asian	57	24-01-2017	$50,994 	0% 	China	Chongqing	
+E01550	Ruby Barnes	Manager	IT	Corporate	Female	Caucasian	27	01-07-2020	$1,19,746 	10% 	United States	Phoenix	
+E04332	Luke Martin	Analyst	Finance	Manufacturing	Male	Black	25	16-05-2020	$41,336 	0% 	United States	Miami	20-05-2021
+E04533	Easton Bailey	Manager	Accounting	Manufacturing	Male	Caucasian	29	25-01-2019	$1,13,527 	6% 	United States	Austin	

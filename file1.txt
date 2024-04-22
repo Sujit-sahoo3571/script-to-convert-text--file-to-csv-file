@@ -1,0 +1,5 @@
+E02387	Emily Davis	Sr. Manger	IT	Research & Development	Female	Black	55	08-04-2016	$1,41,604 	15% 	United States	Seattle	16-10-2021
+E04105	Theodore Dinh	Technical Architect	IT	Manufacturing	Male	Asian	59	29-11-1997	$99,975 	0% 	China	Chongqing	
+E02572	Luna Sanders	Director	Finance	Speciality Products	Female	Caucasian	50	26-10-2006	$1,63,099 	20% 	United States	Chicago	
+E02832	Penelope Jordan	Computer Systems Manager	IT	Manufacturing	Female	Caucasian	26	27-09-2019	$84,913 	7% 	United States	Chicago	
+E01639	Austin Vo	Sr. Analyst	Finance	Manufacturing	Male	Asian	55	20-11-1995	$95,409 	0% 	United States	Phoenix	
